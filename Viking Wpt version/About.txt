@@ -1,0 +1,27 @@
+////////////////////////////////////////////
+Viking Wpt
+////////////////////////////////////////////
+ins menu
+del console
+j mode change
+f1-4 buy weapon
+v autobuy off
+f chasecam
+n fast bomb (only working when have money and in home base)
+/////
+p idhook
+-0- attack all no matter if set to "ON" or "OFF"
+-1- priority to attack - (attack all, set to "ON" to attack selected first, use "OFF" to not attack)
+-2- locking the enemy - (attack off, use "ON" to attack)
+name 2 and weapon 2 in menu will only show enemy "ON" in idhook
+/////
+
+end connect to group server
+
+/////
+Note to adjust aim you need to keep the VEC-maker in menu open while adjusting,
+if you close the VEC-maker then values will go back to the values in cfg.
+You can close the menu by pressing ins when adjusting, 
+but always keep the VEC-maker in menu open.....
+Save your new vec and add it to cfg
+/////

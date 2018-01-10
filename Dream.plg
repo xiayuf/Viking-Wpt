@@ -1,0 +1,126 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: Dream - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\putte\AppData\Local\Temp\RSP8111.tmp" with contents
+[
+/nologo /MD /W3 /GX /O1 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /D "_USRDLL" /D "KYROSBASE_EXPORTS" /Fp"Release/Dream.pch" /YX /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\viking wpt ok menu37\Viking Wpt version\Aimbot.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\apihook.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\attack.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\autodirection.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\bind.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\calcscreen.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\client.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\color.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\console.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\cvars.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\drawing.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\gateways.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\gpatch.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\gui.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\gui2.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\idhook.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\interpreter.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\main.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\menu.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\nospread.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\opengl.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\misc\parsemsg.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\players.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\sprites.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\stringfinder.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\textures.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\timehandling.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\tinystrings.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\trace.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\waypoint.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\weaponslist.cpp"
+"C:\viking wpt ok menu37\Viking Wpt version\common\interface.cpp"
+]
+Creating command line "cl.exe @C:\Users\putte\AppData\Local\Temp\RSP8111.tmp" 
+Creating temporary file "C:\Users\putte\AppData\Local\Temp\RSP8112.tmp" with contents
+[
+kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib winmm.lib /nologo /dll /incremental:no /pdb:"Release/eVOL.pdb" /machine:I386 /out:"Viking Wpt version/eVOL.dll" /implib:"Release/eVOL.lib" 
+".\Release\Aimbot.obj"
+".\Release\apihook.obj"
+".\Release\attack.obj"
+".\Release\autodirection.obj"
+".\Release\bind.obj"
+".\Release\calcscreen.obj"
+".\Release\client.obj"
+".\Release\color.obj"
+".\Release\console.obj"
+".\Release\cvars.obj"
+".\Release\drawing.obj"
+".\Release\gateways.obj"
+".\Release\gpatch.obj"
+".\Release\gui.obj"
+".\Release\gui2.obj"
+".\Release\idhook.obj"
+".\Release\interpreter.obj"
+".\Release\main.obj"
+".\Release\menu.obj"
+".\Release\nospread.obj"
+".\Release\opengl.obj"
+".\Release\parsemsg.obj"
+".\Release\players.obj"
+".\Release\sprites.obj"
+".\Release\stringfinder.obj"
+".\Release\textures.obj"
+".\Release\timehandling.obj"
+".\Release\tinystrings.obj"
+".\Release\trace.obj"
+".\Release\waypoint.obj"
+".\Release\weaponslist.obj"
+".\Release\interface.obj"
+]
+Creating command line "link.exe @C:\Users\putte\AppData\Local\Temp\RSP8112.tmp"
+<h3>Output Window</h3>
+Compiling...
+Aimbot.cpp
+apihook.cpp
+attack.cpp
+autodirection.cpp
+bind.cpp
+calcscreen.cpp
+client.cpp
+color.cpp
+console.cpp
+cvars.cpp
+drawing.cpp
+gateways.cpp
+gpatch.cpp
+gui.cpp
+gui2.cpp
+idhook.cpp
+interpreter.cpp
+main.cpp
+menu.cpp
+nospread.cpp
+opengl.cpp
+parsemsg.cpp
+players.cpp
+sprites.cpp
+stringfinder.cpp
+textures.cpp
+timehandling.cpp
+tinystrings.cpp
+trace.cpp
+waypoint.cpp
+weaponslist.cpp
+interface.cpp
+Linking...
+   Creating library Release/eVOL.lib and object Release/eVOL.exp
+
+
+
+<h3>Results</h3>
+eVOL.dll - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>

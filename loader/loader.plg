@@ -1,0 +1,31 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: 007 - Win32 Release--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating command line "rc.exe /l 0x804 /fo"Release/Script2.res" /d "NDEBUG" "C:\aviking wpt ok menu37\Viking Wpt version src\loader\Script2.rc"" 
+Creating temporary file "C:\Users\putte\AppData\Local\Temp\RSPACEA.tmp" with contents
+[
+/nologo /MD /W3 /GX /O2 /D "WIN32" /D "NDEBUG" /D "_WINDOWS" /D "_MBCS" /Fo"Release/" /Fd"Release/" /FD /c 
+"C:\aviking wpt ok menu37\Viking Wpt version src\loader\main.cpp"
+]
+Creating command line "cl.exe @C:\Users\putte\AppData\Local\Temp\RSPACEA.tmp" 
+Creating command line "link.exe kernel32.lib user32.lib comdlg32.lib /nologo /subsystem:windows /incremental:no /pdb:"ì«·çFinal/eVOL.pdb" /machine:I386 /out:"../Viking Wpt version/eVOL.exe"  ".\Release\main.obj" ".\Release\Script2.res" "
+<h3>Output Window</h3>
+Compiling resources...
+Compiling...
+main.cpp
+Linking...
+LINK : warning LNK4078: multiple ".data" sections found with different attributes (40000040)
+LINK : warning LNK4078: multiple ".data" sections found with different attributes (60000020)
+
+
+
+<h3>Results</h3>
+eVOL.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>
